@@ -1,0 +1,67 @@
+dody{
+   margin: 0; 
+}
+h1{
+    padding: 30px;
+margin: 0px;
+
+
+}
+
+.text{
+    margin: 0;
+    padding: 20px;
+}
+
+header{
+ height: 350px; /*высота блока*/  
+ background-color: rgb(0, 191, 255); /* цвет фона */
+ color:rgb(255, 255, 255) ; /* цвет текста */
+ text-align:center ;
+ font-size:large ;
+ background-image: url(https://mir-s3-cdn-cf.behance.net/projects/404/58043a160860639.Y3JvcCwxNTM0LDEyMDAsMTkzLDA.jpg);
+ background-size: 100%;
+}
+main{
+ /*высота блока*/  
+    background-color: rgb(0, 255, 149); /* цвет фона */
+    color:rgb(255, 255, 255) ; /* цвет текста */
+    text-align:center ;
+    font-size: large ;
+background-image: url(https://www.minecraft.net/content/dam/games/minecraft/key-art/Vanilla-PMP_Collection-Carousel-0_Buzzy-Bees_1280x768.jpg);
+background-size: 100%;
+display: flex;
+}
+.left{
+    width: 50%;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.right{
+    width: 50%;
+    text-align: center;
+}
+
+footer{height: 600px; /*высота блока*/  
+    background-color: rgb(255, 204, 0); /* цвет фона */
+    color:rgb(255, 255, 255) ; /* цвет текста */
+    text-align:center ;
+    font-size: large ;
+background-image: url(https://avatars.dzeninfra.ru/get-zen_doc/1219682/pub_5ecc16c591e212659e30271f_5ecc171cd8e3ee4a78bb7e76/scale_1200);
+background-size: 100%;
+padding-top: 20px;
+}
+
+.social img{
+    width: 100px;
+}
+
+.social{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
